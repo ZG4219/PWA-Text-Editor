@@ -16,4 +16,12 @@
  npm install jest
 
  and then npm run test from the command line
- 
+
+ ## Usage
+
+ Type the following command in your terminal:
+
+ npm run start
+
+ Then open Insomnia and type http://localhost:3000/ to run this app on your local machine.
+
