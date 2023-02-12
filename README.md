@@ -27,6 +27,6 @@
 
  ## Deployed link
 
- https://stark-mountain-43134.herokuapp.com/
- https://github.com/ZG4219/PWA-Text-Editor
+ - https://stark-mountain-43134.herokuapp.com/
+ - https://github.com/ZG4219/PWA-Text-Editor
 
