@@ -25,3 +25,6 @@
 
  Then open Insomnia and type http://localhost:3000/ to run this app on your local machine.
 
+ ## Deployed link
+ 
+
