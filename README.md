@@ -26,5 +26,7 @@
  Then open Insomnia and type http://localhost:3000/ to run this app on your local machine.
 
  ## Deployed link
- 
+
+ https://stark-mountain-43134.herokuapp.com/
+ https://github.com/ZG4219/PWA-Text-Editor
 
